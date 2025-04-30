@@ -7,6 +7,8 @@
 | Kelas | TI.23.A.6
 | Dosen |  Agung Nugroho, S.Kom., M.Kom.
 
+https://ultrawdd.blogspot.com/2025/04/eksperimen-real-time-chat-menggunakan.html
+
 # Instalasi Node.js:
 
 ## Pastikan ```Node.js``` sudah terinstal di sistem Anda. Unduh dan Instal dari ```situs resmi Node.js.```
