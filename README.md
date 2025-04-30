@@ -6,4 +6,16 @@
 | Dosen |  Agung Nugroho, S.Kom., M.Kom.
 
 # WEBSOCKET CHAT EXPERIMENT
-![image](ss1.png)
+![image](ss/ss1.png)
+
+![image](ss/ss2.png)
+
+![image](ss/ss3.png)
+
+![image](ss/ss4.png)
+
+![image](ss/ss5.png)
+
+![image](ss/ss6.png)
+
+![image](ss/ss7.png)
