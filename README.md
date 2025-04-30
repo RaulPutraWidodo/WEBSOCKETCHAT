@@ -28,7 +28,6 @@ Pastikan ```Node.js``` sudah terinstal di sistem Anda. Unduh dan Instal dari ```
 ![image](ss/ss2.png)
 ![image](ss/ss3.png)
 
-# Instalasi di vscode
 
 # Buat file server.js
 
@@ -120,8 +119,10 @@ console.log('Server running on ws://localhost:8080');
 # Buka file ```index.html``` di browser untuk mulai berkomunikasi.
 
 ![image](ss/ss6.png)
+client mengirim pesan ke server
 
 ![image](ss/ss5.png)
+server menerima pesan dari client
 
 # Struktur Folder
 ![image](ss/ss7.png)
