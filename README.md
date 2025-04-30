@@ -7,7 +7,9 @@
 | Kelas | TI.23.A.6
 | Dosen |  Agung Nugroho, S.Kom., M.Kom.
 
-# Instalasi di cmd(command prompt)
+# Instalasi Node.js:
+
+Pastikan ```Node.js``` sudah terinstal di sistem Anda. Unduh dan Instal dari ```situs resmi Node.js.```
 
 # Buat folder baru untuk proyek anda
 
