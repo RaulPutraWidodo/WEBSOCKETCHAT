@@ -119,10 +119,12 @@ console.log('Server running on ws://localhost:8080');
 # Buka file ```index.html``` di browser untuk mulai berkomunikasi.
 
 ![image](ss/ss6.png)
-client mengirim pesan ke server
+
+## client mengirim pesan ke server
 
 ![image](ss/ss5.png)
-server menerima pesan dari client
+
+## server menerima pesan dari client
 
 # Struktur Folder
 ![image](ss/ss7.png)
