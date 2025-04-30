@@ -9,7 +9,7 @@
 
 # Instalasi Node.js:
 
-Pastikan ```Node.js``` sudah terinstal di sistem Anda. Unduh dan Instal dari ```situs resmi Node.js.```
+## Pastikan ```Node.js``` sudah terinstal di sistem Anda. Unduh dan Instal dari ```situs resmi Node.js.```
 
 # Buat folder baru untuk proyek anda
 
@@ -29,9 +29,9 @@ Pastikan ```Node.js``` sudah terinstal di sistem Anda. Unduh dan Instal dari ```
 ![image](ss/ss3.png)
 
 
-# Buat file server.js
+# Buat file ```server.js```
 
-Di dalam folder proyek, buat file server.js:
+## Di dalam folder proyek, buat file ```server.js```:
 
 ```const WebSocket = require('ws');
 const wss = new WebSocket.Server({ port: 8080 });
@@ -60,7 +60,7 @@ console.log('Server running on ws://localhost:8080');
 
 # Menjalankan Server:
 
-# Jalankan server di cmd (command prompt) dengan perintah berikut:
+## Jalankan server di cmd (command prompt) dengan perintah berikut:
 
 ```node server.js```
 
@@ -68,7 +68,7 @@ console.log('Server running on ws://localhost:8080');
 
 # Mengatur Client
 
-# Buat file ```index.html``` untuk antarmuka pengguna (UI):
+## Buat file ```index.html``` untuk antarmuka pengguna (UI):
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -116,7 +116,7 @@ console.log('Server running on ws://localhost:8080');
 ```
 # Menjalankan Client:
 
-# Buka file ```index.html``` di browser untuk mulai berkomunikasi.
+## Buka file ```index.html``` di browser untuk mulai berkomunikasi.
 
 ![image](ss/ss6.png)
 
